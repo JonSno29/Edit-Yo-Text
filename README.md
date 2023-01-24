@@ -1,7 +1,8 @@
+
 # EDIT-YO-TEXT
 
 <div align="center" id="top">
-  <img width="500px" height="200px" src="assets/welcome.svg"/>
+  <img width="500px" height="200px" src="/client/dist/assets/welcome.svg"/>
   </div>
   
 ## USER STORY / OVERVIEW
