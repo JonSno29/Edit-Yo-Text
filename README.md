@@ -2,7 +2,7 @@
 # EDIT-YO-TEXT
 
 <div align="center" id="top">
-  <img width="500px" height="200px" src="/client/dist/assets/welcome.svg"/>
+  <img width="500px" height="200px" src="welcome.svg"/>
   </div>
   
 ## USER STORY / OVERVIEW
@@ -15,9 +15,27 @@ SO THAT I can reliably retrieve them for later use
 
 ## ROUTES / ACCEPTANCE CRITERIA
 
+```
+WHEN I open my application in my editor
+THEN I should see a client server folder structure
+WHEN I run `npm run start` from the root directory
+THEN I run the text editor application from my terminal
+WHEN I run my webpack plugins
+THEN I find that I have a generated HTML file, service worker, and a manifest file
+THEN I find that the text editor still functions in the browser without errors
+THEN I find that IndexedDB has immediately created a database storage
+WHEN I enter content and subsequently click off of the DOM window
+THEN I find that the content in the text editor has been saved with IndexedDB
+THEN I find that the content in the text editor has been retrieved from our IndexedDB
+WHEN I click on the Install button
+THEN I download my web application as an icon on my desktop
+THEN I should have a registered service worker using workbox
+AND I deploy to Heroku
+```
+
 ## TABLE OF CONTENTS
 
- 🎗[USER STORY](#userstory)
+ 🎗[USERSTORY](#userstory)
 
  🎗[INSTALLATION](#installation)
 
@@ -27,7 +45,7 @@ SO THAT I can reliably retrieve them for later use
 
  🎗[DEPENDENCIES](#dependencies)
 
- 🎗[CONTACT ME](#CONTACTME)  
+ 🎗[CONTACTME](#CONTACTME)  
 
 ## INSTALLATION
 
@@ -44,7 +62,6 @@ SO THAT I can reliably retrieve them for later use
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </kbd>
   <kbd>
@@ -78,7 +95,13 @@ SO THAT I can reliably retrieve them for later use
 
  <a href="https://github.com/jonsno29/Edit-Yo-Text.git" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
-🎗
+🎗 <https://dashboard.heroku.com/apps/quiet-springs-52776>
+
+🎗 MOCK-UP VIDEOS:
+
+🎗<https://www.youtube.com/watch?v=SOIoabg3aSc>
+🎗<https://www.youtube.com/watch?v=QBErlgYxDSY>
+🎗<https://www.youtube.com/watch?v=RuQKPRUfpJ8>
 
 ## CREDITS
 
@@ -116,7 +139,9 @@ SO THAT I can reliably retrieve them for later use
 
 ## HOW TO CONTRIBUTE
 
-🎗 Fork my repositories so I can fork yours:
+🎗 Let's fork eachother!
+
+<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"><img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
 
 🎗 Use the "scout rule" to help others.
 
