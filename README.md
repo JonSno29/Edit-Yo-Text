@@ -93,7 +93,7 @@ AND I deploy to Heroku
   
 ## LIVE LINK / MOCK-UP
 
- <a href="https://github.com/jonsno29/Edit-Yo-Text.git" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/jonsno29/Edit-Yo-Text.git" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
 🎗 <https://dashboard.heroku.com/apps/quiet-springs-52776>
 
