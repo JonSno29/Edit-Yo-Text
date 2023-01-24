@@ -1,5 +1,4 @@
-#  EDIT-YO-TEXT
-
+# EDIT-YO-TEXT
 
 <div align="center" id="top">
   <img width="500px" height="200px" src="assets/welcome.svg"/>
@@ -8,16 +7,12 @@
 ## USER STORY / OVERVIEW
 
 ```
-AS A 
-
-I WANT 
-
-SO THAT 
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
 ```
 
 ## ROUTES / ACCEPTANCE CRITERIA
-
-
 
 ## TABLE OF CONTENTS
 
@@ -82,7 +77,7 @@ SO THAT
 
  <a href="https://github.com/jonsno29/Edit-Yo-Text.git" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
-🎗 
+🎗
 
 ## CREDITS
 
