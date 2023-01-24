@@ -35,7 +35,7 @@ AND I deploy to Heroku
 
 ## TABLE OF CONTENTS
 
- 🎗[USERSTORY](#userstory)
+ 🎗[OVERVIEW](#overview)
 
  🎗[INSTALLATION](#installation)
 
@@ -45,7 +45,7 @@ AND I deploy to Heroku
 
  🎗[DEPENDENCIES](#dependencies)
 
- 🎗[CONTACTME](#CONTACTME)  
+ 🎗[CONTACT ME](#contactme) 
 
 ## INSTALLATION
 
@@ -97,10 +97,14 @@ AND I deploy to Heroku
 
 🎗 <https://dashboard.heroku.com/apps/quiet-springs-52776>
 
+🎗 <https://quiet-springs-52776.herokuapp.com/>
+
 🎗 MOCK-UP VIDEOS:
 
 🎗<https://www.youtube.com/watch?v=SOIoabg3aSc>
+
 🎗<https://www.youtube.com/watch?v=QBErlgYxDSY>
+
 🎗<https://www.youtube.com/watch?v=RuQKPRUfpJ8>
 
 ## CREDITS
